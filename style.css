@@ -34,6 +34,9 @@ button {
 
 main {
   background-color: #D4A76A;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
 }
 
 section {
@@ -54,5 +57,6 @@ section {
 }
 
 .offer p {
-  margin-top: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
