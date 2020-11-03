@@ -25,11 +25,13 @@ button {
   color: white;
   font-weight: bold;
   padding: 12px;
+  border: 1px solid black;
 }
 
 .navButton {
   text-transform: uppercase;
   margin: 10px;
+  border: 0;
 }
 
 main {
