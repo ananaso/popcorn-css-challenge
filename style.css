@@ -5,6 +5,7 @@ Header Text - #553100
 Main background - #D4A76A*/
 
 body,hr {
+  background-color: #D4A76A;
   padding: 0;
   margin: 0;
 }
@@ -35,7 +36,6 @@ button {
 }
 
 main {
-  background-color: #D4A76A;
   display: flex;
   justify-content: space-evenly;
   padding: 20px;
