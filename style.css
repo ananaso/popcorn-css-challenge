@@ -36,9 +36,15 @@ button {
 }
 
 main {
+  padding: 30px;
+  display: grid;
+  row-gap: 30px;
+}
+
+.offers {
   display: flex;
+  flex-basis: 30%;
   justify-content: space-evenly;
-  padding: 20px;
 }
 
 section {
