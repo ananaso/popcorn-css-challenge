@@ -4,18 +4,6 @@ button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
 
-button {
-  background-color: #805215;
-  color: white;
-  font-weight: bold;
-  padding: 12px;
-}
-
-.navButton {
-  text-transform: uppercase;
-  margin: 10px;
-}
-
 body,hr {
   padding: 0;
   margin: 0;
@@ -32,6 +20,18 @@ header {
   align-items: center;
 }
 
+button {
+  background-color: #805215;
+  color: white;
+  font-weight: bold;
+  padding: 12px;
+}
+
+.navButton {
+  text-transform: uppercase;
+  margin: 10px;
+}
+
 main {
   background-color: #D4A76A;
 }
@@ -46,4 +46,13 @@ section {
 
 .offer {
   width: 250px;
+}
+
+.offer h3 {
+  margin: 0;
+  text-align: center;
+}
+
+.offer p {
+  margin-top: 5px;
 }
