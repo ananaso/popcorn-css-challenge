@@ -9,6 +9,8 @@ button {
   color: white;
   font-weight: bold;
   text-transform: uppercase;
+  padding: 12px;
+  margin: 10px;
 }
 
 header {
@@ -16,6 +18,10 @@ header {
   color: #553100;
   font-weight: bold;
   text-transform: uppercase;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  align-items: center;
 }
 
 main {
